@@ -65,4 +65,6 @@ The dataset used is **IMDB Movies Data**, containing the following fields:
 This project demonstrates how **Power BI empowers data storytelling**, turning raw numbers into meaningful insights.
 It provides value for producers, distributors, and movie enthusiasts by identifying what factors drive **audience love ❤️** and **critical acclaim 🧐**.
 
+Dashboard Preview
+<img width="1375" height="778" alt="PowerBI_project" src="https://github.com/user-attachments/assets/b8efbd3b-62a0-4767-bd1c-29bd7122007f" />
 
